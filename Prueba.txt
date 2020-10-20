@@ -1,0 +1,6 @@
+Este es un archivo de prueba con una lista
+
+- Casa
+- Carro
+- Perro
+- Gato
